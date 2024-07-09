@@ -8,5 +8,3 @@ A SwiftUI macOS app to help manage camera and mic during countless MS Teams call
 
 ### [Babuli](https://apps.apple.com/es/app/babuli/id1632812183)
 A native iOS app (with a custom AWS-based backend) to track public buses in Batumi, Georgia. Over 16,000 downloads and counting. I wish I had more time to support it.
-
-#### I also have a Flightradar24 radar with #T-LEMG109 on my balcony. One day, I'll find a way to share it here just for fun.
